@@ -1,14 +1,14 @@
 ### Hi there 👋, My name is Leonardo
 
-I am a Software Engineer based in Boston, MA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I am also a certified IT professional with numerous certifications including an AWS Cloud Solutions Architect certification. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
+I am a Software Engineer working remotoly and residing currently in Brazil. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, React, Next.JS and the JAMStack. I am also proficient at Google Firebase including, hosting, analytics and cloud functions. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
+
 My Skill Set
 
-  ----------------- ---------------
-  John Lennon       Rhythm Guitar
-  Paul McCartney    Bass
-  George Harrison   Lead Guitar
-  Ringo Starr       Drums
-  ----------------- ---------------
+  ----------------- --------------- ----------------- ---------------
+  John Lennon       Rhythm Guitar   John Lennon       Rhythm Guitar
+  
+  ----------------- --------------- ----------------- ---------------
+  
 
 
 <!--
