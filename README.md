@@ -1,11 +1,9 @@
-### Hi there 👋, My name is Leonardo
+<h1 align="center">Hi 👋, I'm Leonardo</h1>
+<h3 align="center">A passionate fullstack developer from Brazil, working remotely</h3>
 
 I am a Software Engineer working remotely and residing currently in Brazil. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, React, Next.JS and the JAMStack. I am also proficient at Google Firebase including, hosting, analytics and cloud functions. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
 I develop web projects geared towards education, data transparency and open-data,  and web-scraping.  They all share a strong emphasis on elegant design, usability and accessibility, always aimed at providing meaningful experiences to users.
-
-<h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A passionate fullstack developer from Brazil, working remotely</h3>
 
 - 🔭 I’m currently working on **Piabanha Project - a Next.js project for a nature conservancy NGO in Brazil**
 
