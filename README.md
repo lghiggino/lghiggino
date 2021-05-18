@@ -78,4 +78,4 @@ I develop web projects geared towards education, data transparency and open-data
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lghiggino&show_icons=true&locale=en&layout=compact" alt="lghiggino" /></p>
 
-<p align="center" ><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=lghiggino&" alt="lghiggino" /></p>
+<!-- <p align="center" ><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=lghiggino&" alt="lghiggino" /></p> -->
