@@ -5,15 +5,15 @@ I am proficient in both Frontend development and Backend development. I have ext
 
 I develop web projects geared towards education, data transparency and open-data,  and web-scraping.  They all share a strong emphasis on elegant design, usability and accessibility, always aimed at providing meaningful experiences to users.
 
-- 🔭 I’m currently working on **Piabanha Project - a Next.js project for a nature conservancy NGO in Brazil**
+- 🔭 I’m currently working at **Calindra - a fascinating startup here in Brazil**
 
-- 🌱 I’m currently learning **Nexts.js, JAMStack and Prismic CMS - in addition to React and Node.JS**
+- 🌱 I’m currently learning **TypeORM and realtional databases**
 
-- 👯 I’m looking to collaborate on **Blitz.js**
+- 👯 I’m looking to collaborate on **Full Stack Projects using NextJS (or ReactJS), Node and Express and SQL databases**
 
 - 👨‍💻 All of my projects are available at [https://www.leonardonobre.com.br](https://www.leonardonobre.com.br)
 
-- 💬 Ask me about **ES6 JavaScript, HTML5 and CSS3**
+- 💬 Ask me about **NextJS, ReactJS, ES6 JavaScript, HTML5 and CSS3**
 
 - 📫 How to reach me **lghiggino@gmail.com**
 
