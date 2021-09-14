@@ -5,7 +5,7 @@ I am proficient in both Frontend development and Backend development. I have ext
 
 I develop web projects geared towards education, data transparency and open-data,  and web-scraping.  They all share a strong emphasis on elegant design, usability and accessibility, always aimed at providing meaningful experiences to users.
 
-- 🔭 I’m currently working at **Calindra - a fascinating startup here in Brazil**
+- 🔭 I’m currently working at **Calindra - Dev2Dev**
 
 - 🌱 I’m currently learning **TypeORM and realtional databases**
 
