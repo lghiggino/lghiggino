@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A passionate fullstack developer from Brazil, working remotely</h3>
+<h3 align="center">A fullstack developer from Brazil, working remotely.</h3>
 
-I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript. I am also proficient at Google Firebase including, hosting, analytics and cloud functions. I'm growing my knowledge in Node.Js, MongoDB, React, Next.JS and the JAMStack at the momment. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
+I am proficient in both Frontend development and Backend development. I have extensive knowledge in NextJS, React, HTML, CSS and Javascript. I am also proficient at Google Firebase including, noSQL databases, athentication, hosting, analytics and cloud functions. I'm growing my knowledge in React Native, TypeScript, Node.Js, MongoDB  and Postgres at the momment. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions.
 
-I develop web projects geared towards education, data transparency and open-data,  and web-scraping.  They all share a strong emphasis on elegant design, usability and accessibility, always aimed at providing meaningful experiences to users.
+I develop web projects geared towards education, data transparency and open-data,  and web-scraping. They all share a strong emphasis on elegant design, usability and accessibility, always aimed at providing meaningful experiences to users.
 
 - 🔭 I’m currently working at **Calindra - Dev2Dev**
 
-- 🌱 I’m currently learning **TypeORM and realtional databases**
+- 🌱 I’m currently learning **TypeORM and relational databases**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects using NextJS (or ReactJS), Node and Express and SQL databases**
 
