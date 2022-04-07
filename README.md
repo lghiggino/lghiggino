@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A fullstack developer from Brazil, working remotely.</h3>
 
-I am proficient in both Frontend development and Backend development. I have extensive knowledge in NextJS, React, HTML, CSS and Javascript. I am also proficient at Google Firebase including, noSQL databases, athentication, hosting, analytics and cloud functions. I'm growing my knowledge in React Native, TypeScript, Node.Js, MongoDB  and Postgres at the momment. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions.
+I am proficient in both Frontend development and Backend development. I have extensive knowledge in NextJS, React, HTML, CSS and Javascript. I am also proficient at Google Firebase noSQL database, athentication, hosting and analytics. I'm growing my knowledge in React Native, TypeScript, Node.Js, MongoDB  and Postgres at the momment. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions.
 
 I develop web projects geared towards education, data transparency and open-data,  and web-scraping. They all share a strong emphasis on elegant design, usability and accessibility, always aimed at providing meaningful experiences to users.
 
